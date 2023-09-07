@@ -1,7 +1,3 @@
 # CSC540-Assignment2 Tic-Tac-Toe
 
-The introduction summarizes the purpose and function of the project, and should be concise (a brief paragraph or two). This introduction may be the same as the first paragraph on the project page.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
+This project is an interactive Tic Tac Toe game where players can challenge an AI opponent. To create a challenging and efficient gaming experience I implemented the Alpha-Beta Pruning algorithm (an optimization technique for the Minimax algorithm). It is also a powerful technique for optimizing the search process in game trees. The user interface was crafted using JavaFX on the Java side, providing an intuitive and visually appealing game interface. However, Java was also employed to handle the AI logic, employing the AI to make intelligent moves by evaluating potential game states and choosing optimal strategies while significantly reducing the search space. This combination of Java uses has resulted in a dynamic and extremely competitive Tic Tac Toe game that exemplifies the effectiveness of Alpha-Beta Pruning while providing a frustrating yet engaging player vs AI experience.
